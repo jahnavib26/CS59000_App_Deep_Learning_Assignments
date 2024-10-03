@@ -2,3 +2,4 @@ transformers
 gradio
 torch
 tensorflow
+tf_keras
